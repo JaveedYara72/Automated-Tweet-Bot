@@ -1,0 +1,5 @@
+requests
+pandas
+anthropic
+python-telegram-bot
+tweepy
